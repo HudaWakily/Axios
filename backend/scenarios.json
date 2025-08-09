@@ -1,0 +1,77 @@
+[
+  {
+    "task": "Write a short story",
+    "difficulty": "easy",
+    "type": "creative",
+    "participants": 1,
+    "cost": "low",
+    "accessibility": "Beginner-friendly",
+    "timeRequired": "1 hour",
+    "familyFriendly": true,
+    "link": "https://www.example.com/writing-tips",
+    "taskID": "123456"
+  },
+  {
+    "task": "Create a poem",
+    "difficulty": "medium",
+    "type": "poetry",
+    "participants": 1,
+    "cost": "free",
+    "accessibility": "All levels",
+    "timeRequired": "30 minutes",
+    "familyFriendly": true,
+    "link": "https://www.example.com/poetry-guide",
+    "taskID": "789012"
+  },
+  {
+    "task": "Write a blog post",
+    "difficulty": "medium",
+    "type": "non-fiction",
+    "participants": 1,
+    "cost": "low",
+    "accessibility": "Intermediate",
+    "timeRequired": "2 hours",
+    "familyFriendly": true,
+    "link": "https://www.example.com/blogging-101",
+    "taskID": "345678"
+  },
+  {
+    "task": "Group storytelling",
+    "difficulty": "easy",
+    "type": "collaborative",
+    "participants": 4,
+    "cost": "free",
+    "accessibility": "All levels",
+    "timeRequired": "45 minutes",
+    "familyFriendly": true,
+    "link": "https://www.example.com/group-writing",
+    "taskID": "901234"
+  },
+  {
+    "task": "Write a script",
+    "difficulty": "hard",
+    "type": "screenplay",
+    "participants": 1,
+    "cost": "medium",
+    "accessibility": "Advanced",
+    "timeRequired": "5 hours",
+    "familyFriendly": true,
+    "link": "https://www.example.com/script-writing",
+    "taskID": "567890"
+  },
+
+
+
+  {
+    "task": "programming language",
+    "difficulty": "easy",
+    "type": "creative",
+    "participants": 1,
+    "cost": "low",
+    "accessibility": "Beginner-friendly",
+    "timeRequired": "1 hour",
+    "familyFriendly": true,
+    "link": "https://www.example.com/writing-tips",
+    "taskID": "1754688704334"
+  }
+]
