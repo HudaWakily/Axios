@@ -19,13 +19,12 @@ app.get('/random', (req,res) =>{
 
 })
 
-app.post('/add', (req, res) => {
+app.post('/createtask', (req, res) => {
     const newTask = req.body;
     const newTaskId = Date.now().toString();
     newTask.taskID = newTaskId;
     scenariosData.push(newTask);
     fs.writeFileSync('scenarios.json', JSON.stringify(scenariosData, null, 2));
-    res.status(201).json(newTask);
     res.send('Task added successfully');
 
 })
